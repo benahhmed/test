@@ -1,0 +1,43 @@
+/target/
+.mvn/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.idea
+*.idea/**
+**/*.iml
+target
+*.project
+*.classpath
+*.iws
+**/.settings/**
+*.log
+*.log.gz
+rebel.xml
+**/nb*.xml
+/.settings
+.settings
+mvnw
+mvnw.cmd
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
